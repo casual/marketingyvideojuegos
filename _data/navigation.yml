@@ -1,0 +1,13 @@
+main:
+ # - title: "Artículos"
+ #   url: /
+  - title: "Casos de Éxito"
+    url: /casos-de-exito/
+  - title: "Industria"
+    url: /industria/
+  - title: "Tips y Estrategias"
+    url: /tips-y-estrategias/
+  - title: "Tags"
+    url: /tags/
+ # - title: "Acerca de"
+ #   url: /about/

@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git --version:*)",
+      "Bash(gem:*)",
+      "Bash(ruby -v:*)",
+      "Bash(bundler:*)",
+      "Bash(bundle install:*)",
+      "Bash(bundle exec jekyll serve:*)",
+      "Bash(bundle update:*)",
+      "Bash(python -m pip install:*)",
+      "Bash(python migrate_articles.py:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

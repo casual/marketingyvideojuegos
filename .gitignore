@@ -1,6 +1,23 @@
+# Jekyll
 _site
 .jekyll-cache
-pages/.DS_Store
-pages/tags.md
+.jekyll-metadata
+.sass-cache
+
+# Obsidian
+.obsidian/
+.trash/
 _notes/.obsidian
 _notes/Public/.obsidian
+
+# OS
+.DS_Store
+pages/.DS_Store
+Thumbs.db
+
+# Generated
+pages/tags.md
+
+# Ruby
+Gemfile.lock
+vendor/

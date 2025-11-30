@@ -1,0 +1,11 @@
+diego:
+  name: "Diego Gajardo"
+  avatar: "/assets/img/diego_gajardo.jpg"
+  bio: "Análisis y estrategias de marketing en la industria de videojuegos"
+  links:
+    - label: "Plastic Frog"
+      icon: "fas fa-link"
+      url: "https://plasticfroggames.com/"
+    - label: "Linkedin"
+      icon: "fas fa-linkedin"
+      url: "https://www.linkedin.com/in/diego-gajardo/"

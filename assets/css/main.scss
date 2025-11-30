@@ -1,0 +1,34 @@
+---
+# Only the main Sass file needs front matter (the dashes are needed)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/contrast"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Personalizaciones */
+a {
+  color: #f35b04;
+}
+
+a:visited {
+  color: rgba(34, 48, 60);
+}
+a:hover {
+  color: rgba(34, 48, 60);
+  outline: 0;
+}
+
+.archive__subtitle {
+  margin: 1.414em 0 0.5em;
+  padding-bottom: 0.5em;
+  font-size: 1em;
+  color: #22303c;
+  border-bottom: 1px solid rgb(191.25, 191.25, 191.25);
+}
+
+.page__title a {
+  color: #22303c;
+  text-decoration: none;
+}
