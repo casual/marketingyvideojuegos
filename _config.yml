@@ -15,6 +15,12 @@ author:
   bio: "Análisis de estrategias de marketing en la industria gaming"
   avatar: "/assets/img/diego_gajardo.jpg"
 
+# Social Links (para la landing page)
+social:
+  linkedin: "https://www.linkedin.com/in/diegogajardob/"
+  discord: "https://discord.gg/tu-servidor"  # Reemplazar con tu servidor de Discord
+  website: "https://plasticfroggames.com"
+
 logo: "/assets/img/logo-marketingyvideojuegos.webp"
 
 # Reading Files
