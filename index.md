@@ -1,5 +1,3 @@
 ---
-layout: home
-author_profile: true
-author: diego
+layout: landing
 ---
