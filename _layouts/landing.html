@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="landing-hero">
+  <div class="landing-container">
+    <img src="{{ '/assets/img/diego_gajardo.jpg' | relative_url }}" alt="Diego Gajardo" class="landing-profile">
+
+    <h1 class="landing-title">Marketing y Videojuegos</h1>
+
+    <p class="landing-subtitle">¿Necesitas ayuda para vender tu juego? ¡Hablemos!</p>
+
+    <div class="landing-buttons">
+      <a href="{{ site.social.linkedin }}" target="_blank" rel="noopener noreferrer" class="landing-btn landing-btn-linkedin">
+        <i class="fab fa-linkedin"></i>
+        <span>LinkedIn</span>
+      </a>
+
+      <a href="{{ site.social.discord }}" target="_blank" rel="noopener noreferrer" class="landing-btn landing-btn-discord">
+        <i class="fab fa-discord"></i>
+        <span>Discord</span>
+      </a>
+
+      <a href="{{ site.social.website }}" target="_blank" rel="noopener noreferrer" class="landing-btn landing-btn-web">
+        <i class="fas fa-globe"></i>
+        <span>Plastic Frog Games</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+{{ content }}
